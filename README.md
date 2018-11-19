@@ -15,8 +15,7 @@ git clone git@github.com:dorapon2000/boostnote2markdown.git
 pip install -r requirements.txt
 python boostnote_to_markdown.py
 
-# Dialog is opend.
-# Select your BoostNote working directory.
+# Select your BoostNote working directory on the dialog.
 ```
 
-Markdown files made in directory "working_dir/markdown/"
+Markdown files are made in directory "working_dir/markdown/"
